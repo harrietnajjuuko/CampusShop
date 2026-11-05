@@ -11,12 +11,10 @@ ACADEMIC YEAR: 2026/2027
 GROUP MEMBERS:
 
 1. Name: NAJJUKO HARRIET Registration Number: 25/U/15380/PS
-2. Name: AHURIRA MIRACLE Registration Number: 25/U/
+2. Name: AHURIRA MIRACLE Registration Number: 25/U/14863/PS
 3. Name: SABANO SERITAH Registration Number: 25/U/15625/PS
 4. Name: KALIISA DOREEN Registration Number: 25/U/15081/PS
 5. Name: NKINZI GERTRUDE BAYITA gistration Number: 25/U/15575/PS
-
----
 
 1.INTRODUCTION
 
@@ -42,7 +40,7 @@ The objectives of the project are:
 8. To apply validation to prevent negative prices and stock quantities.
 9. To demonstrate the practical application of Object-Oriented Programming concepts.
 
-3.SYSTEM DESIGN AND IMPLEMENTATION
+3.0 SYSTEM DESIGN AND IMPLEMENTATION
 
 3.1 QUESTION ONE: CLASS DESIGN AND ATTRIBUTES
 
@@ -130,7 +128,7 @@ For example, changing the price of the exercise book does not automatically chan
 
 This demonstrates object instantiation and the independent nature of objects in Java.
 
-3.4 QUESTION FOUR: DISPLAYING AND UPDATING PRODUCT INFORMATION
+3.4 148QUESTION FOUR: DISPLAYING AND UPDATING PRODUCT INFORMATION
 
 The application displays the details of all five products in an organised format.
 
